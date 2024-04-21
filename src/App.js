@@ -1,5 +1,7 @@
+import Naver from './pages/Naver/Naver';
+
 function App() {
-  return <div>Test</div>;
+  return <Naver />;
 }
 
 export default App;
